@@ -1,4 +1,4 @@
-# Custom HashMap Implementation in Java
+## Custom HashMap Implementation in Java
 
 A generic HashMap implementation from scratch using separate chaining for collision resolution.
 
