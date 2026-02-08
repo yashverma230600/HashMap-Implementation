@@ -2,7 +2,7 @@
 
 A generic HashMap implementation from scratch using separate chaining for collision resolution.
 
-## Features
+## Features##
 
 - **Generic Implementation**: Supports any key-value types `<K,V>`
 - **Dynamic Sizing**: Automatically calculates optimal table size (nearest power of 2)
